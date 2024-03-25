@@ -1,2 +1,2 @@
-# TEA
-TEA TESTNET
+# android
+For OSS project tea.xyz
